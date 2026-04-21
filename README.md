@@ -35,23 +35,23 @@ This project was developed as part of an academic assignment for Android Develop
 
 ### 🏠 Home Screen
 
-![Home Screen](<img width="1918" height="1079" alt="Screenshot 2026-04-21 211854" src="https://github.com/user-attachments/assets/9fe691ea-7a47-4429-99f7-bf0b10d6d880" />
-)
+<img width="1918" height="1079" alt="Screenshot 2026-04-21 211854" src="https://github.com/user-attachments/assets/9fe691ea-7a47-4429-99f7-bf0b10d6d880" />
+
 
 ### 🎬 Movie Details Screen
 
-![Details Screen](<img width="1919" height="1079" alt="Screenshot 2026-04-21 211937" src="https://github.com/user-attachments/assets/c462d2b9-55d5-4bb6-961f-e17b0aecd147" />
-)
+<img width="1919" height="1079" alt="Screenshot 2026-04-21 211937" src="https://github.com/user-attachments/assets/c462d2b9-55d5-4bb6-961f-e17b0aecd147" />
+
 
 ### 🎥 Movies Page
 
-![Movies Page](<img width="1918" height="1079" alt="Screenshot 2026-04-21 211912" src="https://github.com/user-attachments/assets/daadc90f-aa9f-4c21-b6ab-bfb64e3248d9" />
-)
+<img width="1918" height="1079" alt="Screenshot 2026-04-21 211912" src="https://github.com/user-attachments/assets/daadc90f-aa9f-4c21-b6ab-bfb64e3248d9" />
+
 
 ### 📺 TV Shows Page
 
-![TV Shows Page](<img width="1919" height="1079" alt="Screenshot 2026-04-21 211926" src="https://github.com/user-attachments/assets/3d6c9435-3136-457b-89fa-99bb7fecd9fb" />
-)
+<img width="1919" height="1079" alt="Screenshot 2026-04-21 211926" src="https://github.com/user-attachments/assets/3d6c9435-3136-457b-89fa-99bb7fecd9fb" />
+
 
 ---
 
@@ -59,7 +59,7 @@ This project was developed as part of an academic assignment for Android Develop
 
 <!-- Paste your demo video link below -->
 
-[Watch Demo Video](https://drive.google.com/file/d/1GtXHiJNymOZnt0JEurN0pskbrCHJdN6M/view?usp=sharing)
+https://drive.google.com/file/d/1GtXHiJNymOZnt0JEurN0pskbrCHJdN6M/view?usp=sharing
 
 ---
 
